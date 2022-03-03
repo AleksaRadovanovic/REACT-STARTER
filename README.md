@@ -1,8 +1,8 @@
 
 # REQUIREMENTS
-- html (div, span, a, img, input, br) (style, class)
-- css (display, width, height, backgroundColor, margin, padding, fontSize, color, textAlign)
-- javascript syntax (stampanje, promjenjive, stringovi, nizovi, objekti, funkcije, destruct)
+- HTML (div, span, a, img, input, br) (style, class)
+- CSS (display, width, height, backgroundColor, margin, padding, fontSize, color, textAlign)
+- JAVASCRIPT syntax (stampanje, promjenjive, stringovi, nizovi, objekti, funkcije, destruct)
 - VS code extensions (ESLint, ES7+ React/Redux/React-Native snippets, JS JSX Snippets, Tailwind CSS IntelliSense)
 
 # REACT
